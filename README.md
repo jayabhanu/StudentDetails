@@ -1,4 +1,4 @@
-#### Student Details Application
+## Student Details Application
 
 ### This programs gives you detilas of students-ID with thier names
 
